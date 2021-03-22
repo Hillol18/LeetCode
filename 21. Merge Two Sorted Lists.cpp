@@ -51,8 +51,6 @@ public:
             l2=l2->next;
         }
 
-
-
         return ans;
     }
 };
