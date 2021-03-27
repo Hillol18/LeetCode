@@ -1,7 +1,5 @@
 class Solution {
 public:
-
-
     vector<int> partitionLabels(string S) {
         vector<int> frequency(26,0);
 
